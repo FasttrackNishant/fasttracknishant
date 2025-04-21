@@ -42,7 +42,7 @@
 - 🚀 Building efficient systems that drive business growth
 - 📹 Sharing knowledge through technical tutorials on YouTube
 - 👯 Open to collaboration on innovative projects
-- 📫 Reach me at: **fasttracknishant@gmail.com**
+- 📫 Reach me at: **devnishant@icloud.com**
 
 <br clear="right"/>
 
