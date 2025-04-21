@@ -77,7 +77,7 @@
   <a href="https://codeforces.com/profile/fasttracknishant" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a> -->
-  <a href="https://www.codingninjas.com/studio/profile/nishant063" target="_blank">
+  <a href="https://www.naukri.com/code360/profile/Nishant063" target="_blank">
     <img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/fasttracknishant" target="_blank">
