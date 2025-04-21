@@ -80,7 +80,7 @@
   <a href="https://www.naukri.com/code360/profile/Nishant063" target="_blank">
     <img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/fasttracknishant" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/nishant063/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </div>
