@@ -18,7 +18,7 @@
   <a href="https://www.youtube.com/@FastTrackNishant" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="mailto:fasttracknishant@gmail.com">
+  <a href="mailto:devnishant@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/fasttracknishant" target="_blank">
@@ -150,7 +150,7 @@
 <div align="center">
   <h4>Looking to collaborate? I'm interested in contributing to projects related to:</h4>
   <p>
-    Web Development • Cloud Infrastructure • Developer Tools • Educational Platforms • AI/ML Applications
+    Web Development • Cloud Infrastructure • Developer Tools • Educational Platforms
   </p>
 </div>
 
