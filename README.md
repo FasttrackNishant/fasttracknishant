@@ -5,7 +5,7 @@
 
 <!-- Animated Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;DevOps+Engineer;Tech+Creator;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;DevOps+Engineer;Tech+Creator;" alt="Typing SVG" />
 </div>
 
 <!-- Professional Bio Statement -->
