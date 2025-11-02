@@ -171,7 +171,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FasttrackNishant&theme=react&hide_border=true&background=0D1117" height="190px" />
 </div>
 
-<!-- Featured Projects with Enhanced Visual Appeal -->
+<!-- Featured Projects with Enhanced Visual Appeal 
 ## 🔍 Featured Projects
 
 <div align="center">
@@ -183,11 +183,12 @@
   </a>
 </div>
 
-<!-- Visual Activity Graph -->
 <div align="center">
   <h3>Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FasttrackNishant&theme=react-dark&hide_border=true" width="100%"/>
 </div>
+
+-->
 
 <!-- Elegant Connection Section -->
 ## 🌐 Connect With Me
