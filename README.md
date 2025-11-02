@@ -136,7 +136,7 @@
 </div>
 </details>
 
-<!-- Open Source Section -->
+<!-- Open Source Section 
 ## 🌟 Open Source Contributions
 
 <div align="center">
@@ -158,7 +158,7 @@
     <span>AI/ML Applications</span>
   </p>
 </div>
-
+-->
 <!-- Enhanced GitHub Stats -->
 ## 📊 GitHub Analytics
 
