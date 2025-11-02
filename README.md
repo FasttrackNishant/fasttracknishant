@@ -66,10 +66,10 @@
   <img src="https://leetcard.jacoblin.cool/nishant063?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats" width="495" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://leetcode.com/nishant063/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  </a> -->
 <!--   <a href="https://www.hackerrank.com/fasttracknishant" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
